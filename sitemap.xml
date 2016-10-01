@@ -7,25 +7,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/operating-ii.html</loc>
-    <lastmod>2016-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.michaelaputz.com/arbeiten.html</loc>
     <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/strangeness.html</loc>
+    <loc>http://www.michaelaputz.com/form-finden,-die-form-verlieren.html</loc>
     <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/in-form-kommen,-die-form-verlieren.html</loc>
+    <loc>http://www.michaelaputz.com/operating-ii.html</loc>
+    <lastmod>2016-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.michaelaputz.com/strangeness.html</loc>
     <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -385,12 +385,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/_dsc0060.jpg</loc>
-    <lastmod>2016-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.michaelaputz.com/images/maschinen_exhibitionviewprints2015_michaelaputz_creditszusanamelichar.jpg</loc>
     <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,7 +415,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/foldinglandscapes_michaelaputz2.jpg</loc>
+    <loc>http://www.michaelaputz.com/images/foldinglandscapes_michaelaputz145x116.jpg</loc>
+    <lastmod>2016-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.michaelaputz.com/images/koerperkartographie1_michaelaputz.jpg</loc>
     <lastmod>2016-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
