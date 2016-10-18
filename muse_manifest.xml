@@ -1,27 +1,27 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1475350721797">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1476780972160">
   <folder name="css">
-    <file name="site_global.css" crc="4285886162"/>
-    <file name="master_a-musters.css" crc="4229503646" ref="patterns-of-the-contemporary:strangeness:nothing-happens:coded-handwriting:measuring-the-human-line:maschinen:arbeiten:kontakt:körperkartographien:panopticon:a-study-on-the-sound-of-danger:operating-ii:objekte-und-zeichnungen:cv:index:operating:aktuell:measuring-the-human-landscape:der-körper-ist-in-auflösung-begriffen:form-finden,-die-form-verlieren"/>
-    <file name="patterns-of-the-contemporary.css" crc="432745178" ref="patterns-of-the-contemporary"/>
-    <file name="strangeness.css" crc="4290961914" ref="strangeness"/>
-    <file name="nothing-happens.css" crc="359337824" ref="nothing-happens"/>
-    <file name="coded-handwriting.css" crc="439033440" ref="coded-handwriting"/>
-    <file name="measuring-the-human-line.css" crc="128856279" ref="measuring-the-human-line"/>
-    <file name="maschinen.css" crc="132147163" ref="maschinen"/>
+    <file name="site_global.css" crc="495454955"/>
+    <file name="master_a-musters.css" crc="4085303819" ref="patterns-of-the-contemporary:strangeness:nothing-happens:coded-handwriting:measuring-the-human-line:maschinen:arbeiten:kontakt:körperkartographien:panopticon:a-study-on-the-sound-of-danger:operating-ii:objekte-und-zeichnungen:cv:index:operating:aktuell:measuring-the-human-landscape:der-körper-ist-in-auflösung-begriffen:form-finden,-die-form-verlieren"/>
+    <file name="patterns-of-the-contemporary.css" crc="226830034" ref="patterns-of-the-contemporary"/>
+    <file name="strangeness.css" crc="190542028" ref="strangeness"/>
+    <file name="nothing-happens.css" crc="3797241833" ref="nothing-happens"/>
+    <file name="coded-handwriting.css" crc="3887696091" ref="coded-handwriting"/>
+    <file name="measuring-the-human-line.css" crc="204333767" ref="measuring-the-human-line"/>
+    <file name="maschinen.css" crc="3952379290" ref="maschinen"/>
     <file name="arbeiten.css" crc="73347273" ref="arbeiten"/>
-    <file name="kontakt.css" crc="3977781008" ref="kontakt"/>
-    <file name="k_rperkartographien.css" crc="139931715" ref="körperkartographien"/>
-    <file name="panopticon.css" crc="4073940082" ref="panopticon"/>
-    <file name="a-study-on-the-sound-of-danger.css" crc="4108629003" ref="a-study-on-the-sound-of-danger"/>
-    <file name="operating-ii.css" crc="4259078934" ref="operating-ii"/>
-    <file name="objekte-und-zeichnungen.css" crc="3869591615" ref="objekte-und-zeichnungen"/>
-    <file name="cv.css" crc="353779897" ref="cv"/>
-    <file name="index.css" crc="491244318" ref="index"/>
-    <file name="operating.css" crc="4254150666" ref="operating"/>
-    <file name="aktuell.css" crc="6303344" ref="aktuell"/>
-    <file name="measuring-the-human-landscape.css" crc="382190853" ref="measuring-the-human-landscape"/>
-    <file name="der-k_rper-ist-in-aufl_sung-begriffen.css" crc="466985842" ref="der-körper-ist-in-auflösung-begriffen"/>
-    <file name="form-finden_-die-form-verlieren.css" crc="30966991" ref="form-finden,-die-form-verlieren"/>
+    <file name="kontakt.css" crc="40378366" ref="kontakt"/>
+    <file name="k_rperkartographien.css" crc="380680410" ref="körperkartographien"/>
+    <file name="panopticon.css" crc="3832976207" ref="panopticon"/>
+    <file name="a-study-on-the-sound-of-danger.css" crc="4183868200" ref="a-study-on-the-sound-of-danger"/>
+    <file name="operating-ii.css" crc="14633838" ref="operating-ii"/>
+    <file name="objekte-und-zeichnungen.css" crc="3939977008" ref="objekte-und-zeichnungen"/>
+    <file name="cv.css" crc="4127370740" ref="cv"/>
+    <file name="index.css" crc="4080834387" ref="index"/>
+    <file name="operating.css" crc="3877789588" ref="operating"/>
+    <file name="aktuell.css" crc="282967207" ref="aktuell"/>
+    <file name="measuring-the-human-landscape.css" crc="386779300" ref="measuring-the-human-landscape"/>
+    <file name="der-k_rper-ist-in-aufl_sung-begriffen.css" crc="214825842" ref="der-körper-ist-in-auflösung-begriffen"/>
+    <file name="form-finden_-die-form-verlieren.css" crc="533325958" ref="form-finden,-die-form-verlieren"/>
   </folder>
   <folder name="assets">
     <file name="blacks.tif" crc="4133843027" seo="true" mt="1456755829000"/>
@@ -41,7 +41,6 @@
     <file name="require.js" crc="4108833657" ref="index:measuring-the-human-line:panopticon:coded-handwriting:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:objekte-und-zeichnungen:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:strangeness:operating-ii:arbeiten:form-finden,-die-form-verlieren"/>
   </folder>
   <folder name="images">
-    <file name="foldinglandscapes_michaelaputz.jpg" crc="64179109" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:arbeiten"/>
     <file name="painting_pink.jpg" crc="40864214" seo="true" ref="index:arbeiten"/>
     <file name="untitled-1.jpg" crc="4107278799" seo="true" ref="index:arbeiten:form-finden,-die-form-verlieren"/>
@@ -54,15 +53,15 @@
     <file name="untitled-1-crop-u8595.jpg" crc="392530535" ref="index"/>
     <file name="territory149x98.jpg" crc="4173722033" seo="true" ref="index"/>
     <file name="panopticon_michaelaputz2148x98.jpg" crc="3867008644" seo="true" ref="index"/>
-    <file name="patternscontemporary_michaelaputz-crop-u8587.jpg" crc="3793937372" ref="index"/>
+    <file name="patternscontemporary_michaelaputz-crop-u8587.jpg" crc="520137333" ref="index"/>
     <file name="img_6942-crop-u8599.jpg" crc="3797555917" ref="index"/>
     <file name="5a4a9d269123515635e0664ef30147x98.jpg" crc="120777539" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:arbeiten"/>
     <file name="territory2.jpg" crc="3924861074" seo="true" ref="measuring-the-human-line"/>
-    <file name="_dsc0079-crop-u2283.jpg" crc="4019899380" ref="measuring-the-human-line"/>
+    <file name="_dsc0079-crop-u2283.jpg" crc="3900775380" ref="measuring-the-human-line"/>
     <file name="territory233x154.jpg" crc="4002387767" seo="true" ref="measuring-the-human-line"/>
     <file name="territory2220x174.jpg" crc="3991436100" seo="true" ref="measuring-the-human-line"/>
-    <file name="_dsc0079-crop-u2289.jpg" crc="484259131" ref="measuring-the-human-line"/>
+    <file name="_dsc0079-crop-u2289.jpg" crc="34068466" ref="measuring-the-human-line"/>
     <file name="eingangzurausstellung3.jpg" crc="4072434348" seo="true" ref="panopticon"/>
     <file name="dsc_4171_50x40_300.jpg" crc="3797674068" seo="true" ref="panopticon"/>
     <file name="dsc_4173_50x40_300.jpg" crc="4207358934" seo="true" ref="panopticon"/>
@@ -117,9 +116,8 @@
     <file name="drawings_wall2-crop-u5026.jpg" crc="249031767" ref="operating"/>
     <file name="drawing_object1-crop-u5462.jpg" crc="310419960" ref="objekte-und-zeichnungen"/>
     <file name="maschinen_exhibitionviewprints2015_michaelaputz_creditszusanamelichar.jpg" crc="210210377" seo="true" ref="maschinen"/>
-    <file name="patternscontemporary_michaelaputz-crop-u5472.jpg" crc="4234760031" ref="patterns-of-the-contemporary"/>
+    <file name="patternscontemporary_michaelaputz-crop-u5472.jpg" crc="4107027594" ref="patterns-of-the-contemporary"/>
     <file name="patternscontemporary2_michaelaputz-crop-u7324.jpg" crc="30098405" ref="patterns-of-the-contemporary"/>
-    <file name="foldinglandscapes_michaelaputz-crop-u8837.jpg" crc="4116133484" ref="aktuell"/>
     <file name="michaela putz.jpg" crc="482301240" seo="true" ref="kontakt"/>
     <file name="untitled-2-crop-u4888.jpg" crc="4181677451" ref="form-finden,-die-form-verlieren"/>
     <file name="strangeness1.jpg" crc="4039750160" seo="true" ref="strangeness"/>
@@ -128,30 +126,32 @@
     <file name="img_6942-crop-u8354.jpg" crc="127555608" ref="arbeiten"/>
     <file name="measuringthehumanlandscape_michaelaputz149x98.jpg" crc="414385964" seo="true" ref="arbeiten"/>
     <file name="untitled-1-crop-u7828.jpg" crc="392530535" ref="arbeiten"/>
-    <file name="patternscontemporary_michaelaputz-crop-u7688.jpg" crc="3793937372" ref="arbeiten"/>
+    <file name="patternscontemporary_michaelaputz-crop-u7688.jpg" crc="520137333" ref="arbeiten"/>
     <file name="img_6942-crop-u8360.jpg" crc="3797555917" ref="arbeiten"/>
-    <file name="foldinglandscapes_michaelaputz145x116.jpg" crc="3946796082" seo="true" ref="index"/>
     <file name="koerperkartographie1_michaelaputz.jpg" crc="165230391" seo="true" ref="körperkartographien"/>
     <file name="koerperkartographie2_michaelaputz-crop-u6941.jpg" crc="70818964" ref="körperkartographien"/>
+    <file name="breakingpatterns_facebookfoto-crop-u9167.jpg" crc="3988479086" ref="index"/>
+    <file name="breakingpatterns_facebookfoto-crop-u9173.jpg" crc="385088749" ref="index"/>
+    <file name="breakingpatterns_facebookfoto.jpg" crc="174527059" seo="true" ref="aktuell"/>
   </folder>
-  <file name="index.html" crc="257785212" seo="true" mt="1475350679148" redirect="true"/>
-  <file name="measuring-the-human-line.html" crc="9997681" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="panopticon.html" crc="4251025524" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="coded-handwriting.html" crc="326060844" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="measuring-the-human-landscape.html" crc="4182281195" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="a-study-on-the-sound-of-danger.html" crc="502005016" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="nothing-happens.html" crc="110621541" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="der-körper-ist-in-auflösung-begriffen.html" crc="3875779312" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="operating.html" crc="3847977122" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="objekte-und-zeichnungen.html" crc="134666553" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="körperkartographien.html" crc="4125866500" seo="true" mt="1475350600425" redirect="true"/>
-  <file name="maschinen.html" crc="190617540" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="patterns-of-the-contemporary.html" crc="4011179061" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="aktuell.html" crc="4227460360" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="cv.html" crc="316215893" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="kontakt.html" crc="4070380727" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="strangeness.html" crc="254626245" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="operating-ii.html" crc="4197524815" seo="true" mt="1475350271146" redirect="true"/>
-  <file name="arbeiten.html" crc="3949315671" seo="true" mt="1475350271152" redirect="true"/>
-  <file name="form-finden,-die-form-verlieren.html" crc="12231984" seo="true" mt="1475350271162" redirect="true"/>
+  <file name="index.html" crc="7517605" seo="true" mt="1476780800739" redirect="true"/>
+  <file name="measuring-the-human-line.html" crc="3783781177" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="panopticon.html" crc="4244969755" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="coded-handwriting.html" crc="3759836970" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="measuring-the-human-landscape.html" crc="4220784562" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="a-study-on-the-sound-of-danger.html" crc="3918943603" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="nothing-happens.html" crc="3999011343" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="der-körper-ist-in-auflösung-begriffen.html" crc="4202228293" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="operating.html" crc="111885772" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="objekte-und-zeichnungen.html" crc="3808128427" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="körperkartographien.html" crc="4190316514" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="maschinen.html" crc="4078350867" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="patterns-of-the-contemporary.html" crc="3762891605" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="aktuell.html" crc="233116982" seo="true" mt="1476780624157" redirect="true"/>
+  <file name="cv.html" crc="3970295337" seo="true" mt="1476780750132" redirect="true"/>
+  <file name="kontakt.html" crc="234004942" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="strangeness.html" crc="405649745" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="operating-ii.html" crc="35126242" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="arbeiten.html" crc="333812818" seo="true" mt="1475351037836" redirect="true"/>
+  <file name="form-finden,-die-form-verlieren.html" crc="4226068035" seo="true" mt="1475351037836" redirect="true"/>
 </manifest>
