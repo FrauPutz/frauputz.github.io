@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1487064572442">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1487065531919">
   <folder name="assets">
     <file name="michaelaputz_arbeiten.pdf" crc="251414572" seo="true" mt="1485444565000"/>
   </folder>
@@ -18,7 +18,7 @@
     <file name="form-finden_-die-form-verlieren.css" crc="33689353" ref="form-finden,-die-form-verlieren"/>
     <file name="nothing-happens.css" crc="4156516176" ref="nothing-happens"/>
     <file name="k_rperkartographien.css" crc="4152347580" ref="körperkartographien"/>
-    <file name="index.css" crc="169374335" ref="index"/>
+    <file name="index.css" crc="4084543554" ref="index"/>
     <file name="strangeness.css" crc="3866449842" ref="strangeness"/>
     <file name="arbeiten.css" crc="283570815" ref="arbeiten"/>
     <file name="patterns-of-the-contemporary.css" crc="4288101706" ref="patterns-of-the-contemporary"/>
@@ -103,7 +103,6 @@
     <file name="patternscontemporary_02_30x45_jpg-crop-u10366.jpg" crc="4214359735" ref="index"/>
     <file name="u10361-5.png" crc="283940166" ref="index"/>
     <file name="painting_pink_web4-crop-u10364.jpg" crc="3866819486" ref="index"/>
-    <file name="dsc_4594_50x40_300220x176-crop-u10368.jpg" crc="3873949038" ref="index"/>
     <file name="_ausstellung_installation-crop-u10370.jpg" crc="512807382" ref="index"/>
     <file name="maschinen_exhibitionviewprints2015_michaelaputz_creditszusanamelichar-crop-u10359.jpg" crc="4179532867" ref="index"/>
     <file name="strangeness1-crop-u10362.jpg" crc="522556700" ref="index"/>
@@ -138,7 +137,7 @@
     <file name="img_20170113_184846-crop-u10372.jpg" crc="86782070" ref="index"/>
     <file name="measuring01-crop-u10355.jpg" crc="482061479" ref="index"/>
   </folder>
-  <file name="index.html" crc="268219067" seo="true" mt="1487064549711" redirect="true"/>
+  <file name="index.html" crc="3983534009" seo="true" mt="1487065486291" redirect="true"/>
   <file name="measuring-the-human-line.html" crc="4068738866" seo="true" mt="1487063800066" redirect="true"/>
   <file name="panopticon.html" crc="4143273295" seo="true" mt="1487063800066" redirect="true"/>
   <file name="measuring-the-human-landscape.html" crc="3819207358" seo="true" mt="1487063800066" redirect="true"/>
