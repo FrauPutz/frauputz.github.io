@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1487065531919">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1487065953977">
   <folder name="assets">
     <file name="michaelaputz_arbeiten.pdf" crc="251414572" seo="true" mt="1485444565000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="169509995"/>
-    <file name="master_a-musters.css" crc="3976295122" ref="operating:measuring-the-human-line:kontakt:a-study-on-the-sound-of-danger:der-körper-ist-in-auflösung-begriffen:maschinen:cv:measuring-the-human-landscape:panopticon:aktuell:form-finden,-die-form-verlieren:nothing-happens:körperkartographien:index:strangeness:arbeiten:patterns-of-the-contemporary:coded-handwriting:prototyp:objekte-und-zeichnungen:measuring-the-human-landscape-2"/>
-    <file name="operating.css" crc="92631876" ref="operating"/>
+    <file name="site_global.css" crc="353262729"/>
+    <file name="master_a-musters.css" crc="3795121154" ref="operating:measuring-the-human-line:kontakt:a-study-on-the-sound-of-danger:der-körper-ist-in-auflösung-begriffen:maschinen:cv:measuring-the-human-landscape:panopticon:aktuell:form-finden,-die-form-verlieren:nothing-happens:körperkartographien:index:strangeness:arbeiten:patterns-of-the-contemporary:coded-handwriting:prototyp:objekte-und-zeichnungen:measuring-the-human-landscape-2"/>
+    <file name="operating.css" crc="4294114242" ref="operating"/>
     <file name="measuring-the-human-line.css" crc="397357383" ref="measuring-the-human-line"/>
     <file name="kontakt.css" crc="4193158501" ref="kontakt"/>
     <file name="a-study-on-the-sound-of-danger.css" crc="4026238536" ref="a-study-on-the-sound-of-danger"/>
@@ -50,7 +50,7 @@
     <file name="5a4a9d269123515635e0664ef30.jpg" crc="224830715" seo="true" ref="nothing-happens"/>
     <file name="territory2.jpg" crc="3924861074" seo="true" ref="measuring-the-human-line"/>
     <file name="loading.gif" crc="3815509949" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="_dsc0079-crop-u2283.jpg" crc="3845062286" ref="measuring-the-human-line"/>
+    <file name="_dsc0079-crop-u2283.jpg" crc="4019899380" ref="measuring-the-human-line" seo="true"/>
     <file name="territory233x154.jpg" crc="69583081" seo="true" ref="measuring-the-human-line"/>
     <file name="territory2220x174.jpg" crc="3817975669" seo="true" ref="measuring-the-human-line"/>
     <file name="_dsc0079-crop-u2289.jpg" crc="3842366918" ref="measuring-the-human-line"/>
@@ -103,7 +103,6 @@
     <file name="patternscontemporary_02_30x45_jpg-crop-u10366.jpg" crc="4214359735" ref="index"/>
     <file name="u10361-5.png" crc="283940166" ref="index"/>
     <file name="painting_pink_web4-crop-u10364.jpg" crc="3866819486" ref="index"/>
-    <file name="_ausstellung_installation-crop-u10370.jpg" crc="512807382" ref="index"/>
     <file name="maschinen_exhibitionviewprints2015_michaelaputz_creditszusanamelichar-crop-u10359.jpg" crc="4179532867" ref="index"/>
     <file name="strangeness1-crop-u10362.jpg" crc="522556700" ref="index"/>
     <file name="dsc_4173_50x40_300.jpg" crc="4207358934" seo="true" ref="panopticon"/>
@@ -119,7 +118,7 @@
     <file name="measuringthehumanlandscape_michaelaputz233x154.jpg" crc="3880849289" seo="true" ref="measuring-the-human-landscape"/>
     <file name="ausstellungpavillon220x183.jpg" crc="4250010682" seo="true" ref="measuring-the-human-landscape"/>
     <file name="painting_pink-crop-u10522.jpg" crc="3830928776" ref="der-körper-ist-in-auflösung-begriffen"/>
-    <file name="operating2-crop-u9798.jpg" crc="291732522" ref="operating"/>
+    <file name="operating2-crop-u9798.jpg" crc="379310081" ref="operating"/>
     <file name="operating1-crop-u9815.jpg" crc="6146076" ref="operating"/>
     <file name="körperkartographien_ausstellung.jpg" crc="465660588" seo="true" ref="körperkartographien"/>
     <file name="patternscontemporary_michaelaputz-crop-u5472.jpg" crc="169845726" ref="patterns-of-the-contemporary"/>
@@ -136,15 +135,16 @@
     <file name="impacthubausstellung244x154.jpg" crc="4279537646" seo="true" ref="measuring-the-human-landscape-2"/>
     <file name="img_20170113_184846-crop-u10372.jpg" crc="86782070" ref="index"/>
     <file name="measuring01-crop-u10355.jpg" crc="482061479" ref="index"/>
+    <file name="measuringthehumanline_michaelaputz-crop-u10370.jpg" crc="62878957" ref="index"/>
   </folder>
-  <file name="index.html" crc="3983534009" seo="true" mt="1487065486291" redirect="true"/>
-  <file name="measuring-the-human-line.html" crc="4068738866" seo="true" mt="1487063800066" redirect="true"/>
+  <file name="index.html" crc="4248191394" seo="true" mt="1487065859126" redirect="true"/>
+  <file name="measuring-the-human-line.html" crc="397215649" seo="true" mt="1487065923894" redirect="true"/>
   <file name="panopticon.html" crc="4143273295" seo="true" mt="1487063800066" redirect="true"/>
   <file name="measuring-the-human-landscape.html" crc="3819207358" seo="true" mt="1487063800066" redirect="true"/>
   <file name="a-study-on-the-sound-of-danger.html" crc="265382896" seo="true" mt="1487063800066" redirect="true"/>
   <file name="nothing-happens.html" crc="365725027" seo="true" mt="1487063800066" redirect="true"/>
   <file name="der-körper-ist-in-auflösung-begriffen.html" crc="3788823136" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="operating.html" crc="4277602592" seo="true" mt="1487063800066" redirect="true"/>
+  <file name="operating.html" crc="448470178" seo="true" mt="1487065767540" redirect="true"/>
   <file name="körperkartographien.html" crc="353232648" seo="true" mt="1487063918291" redirect="true"/>
   <file name="maschinen.html" crc="4232393634" seo="true" mt="1487063800066" redirect="true"/>
   <file name="patterns-of-the-contemporary.html" crc="175539281" seo="true" mt="1487063800066" redirect="true"/>

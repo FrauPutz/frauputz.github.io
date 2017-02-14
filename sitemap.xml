@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/measuring-the-human-landscape-2.html</loc>
+    <loc>http://www.michaelaputz.com/prototyp.html</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/prototyp.html</loc>
+    <loc>http://www.michaelaputz.com/measuring-the-human-landscape-2.html</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -115,13 +115,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.michaelaputz.com/measuring-the-human-line.html</loc>
+    <lastmod>2017-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.michaelaputz.com/panopticon.html</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/measuring-the-human-line.html</loc>
+    <loc>http://www.michaelaputz.com/images/7f698e269123515635e0467f0a4.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -181,13 +187,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/91aac3269123515635e04d88169.jpg</loc>
+    <loc>http://www.michaelaputz.com/images/eingangzurausstellung3232x154.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/7f698e269123515635e0467f0a4.jpg</loc>
+    <loc>http://www.michaelaputz.com/images/dsc_4047_50x40_300220x176.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -253,19 +259,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/buch1220x163.jpg</loc>
+    <loc>http://www.michaelaputz.com/images/91aac3269123515635e04d88169.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/eingangzurausstellung3232x154.jpg</loc>
+    <loc>http://www.michaelaputz.com/images/panopticon_michaelaputz2232x154.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/dsc_4047_50x40_300220x176.jpg</loc>
+    <loc>http://www.michaelaputz.com/images/buch3220x163.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -409,12 +415,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.michaelaputz.com/images/panopticon_michaelaputz2232x154.jpg</loc>
-    <lastmod>2017-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.michaelaputz.com/images/dsc_4594_50x40_300.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -487,6 +487,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.michaelaputz.com/images/_dsc0079-crop-u2283.jpg</loc>
+    <lastmod>2017-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.michaelaputz.com/images/territory2.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -511,6 +517,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.michaelaputz.com/images/buch1220x163.jpg</loc>
+    <lastmod>2017-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.michaelaputz.com/assets/michaelaputz_arbeiten.pdf</loc>
     <lastmod>2017-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,12 +530,6 @@
   </url>
   <url>
     <loc>http://www.michaelaputz.com/images/buch2%20(1)220x163.jpg</loc>
-    <lastmod>2017-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.michaelaputz.com/images/buch3220x163.jpg</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
