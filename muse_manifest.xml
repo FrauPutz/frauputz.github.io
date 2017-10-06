@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="michaelaputz.com" resolutions="1x" timestamp="1507281913664">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="michaelaputz.com" resolutions="1x" timestamp="1507283400000">
   <folder name="css">
     <file name="site_global.css" crc="127823251"/>
     <file name="master_a-master.css" crc="435302643" ref="index"/>
@@ -10,7 +10,7 @@
     <file name="stainedlandscapes.css" crc="3844141274" ref="stainedlandscapes"/>
     <file name="prototyp.css" crc="3876112243" ref="prototyp"/>
     <file name="works.css" crc="3850710340" ref="works"/>
-    <file name="mirroredlandscapes-imprintedmemories.css" crc="4020118225" ref="mirroredlandscapes-imprintedmemories"/>
+    <file name="mirroredlandscapes-imprintedmemories.css" crc="337894846" ref="mirroredlandscapes-imprintedmemories"/>
     <file name="layersofreality.css" crc="3887568651" ref="layersofreality"/>
     <file name="measuringthehumandlandscape.css" crc="4156243575" ref="measuringthehumandlandscape"/>
     <file name="index.css" crc="317742060" ref="index"/>
@@ -46,20 +46,11 @@
     <file name="layersofreality_04_michaelaputz2017_web.jpg" crc="4251191832" seo="true" ref="layersofreality">
       <caption webpage="layersofreality" alt="Layers of Reality #4, Michaela Putz 2017"/>
     </file>
-    <file name="_mirrored landscapes, imprinted memories 02_michaelaputz2017.jpg" crc="3812575998" seo="true" ref="mirroredlandscapes-imprintedmemories">
-      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz"/>
-    </file>
     <file name="mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg" crc="69118057" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
     </file>
-    <file name="_mirrored landscapes, imprinted memories 01_michaelaputz2017.jpg" crc="4130250242" seo="true" ref="mirroredlandscapes-imprintedmemories">
-      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz"/>
-    </file>
     <file name="mirrored-landscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg" crc="238008821" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
-    </file>
-    <file name="mirrored landscapes, imprinted memories 103_michaelaputz2017.jpg" crc="4276259645" seo="true" ref="mirroredlandscapes-imprintedmemories">
-      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #3, Garden, Michaela Putz"/>
     </file>
     <file name="mirrored landscapes, imprinted memories 101_michaelaputz2017.jpg" crc="411009905" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz"/>
@@ -167,8 +158,14 @@
     <file name="michaelaputz_vienna_2017(1)-web.jpg" crc="4008430673" seo="true" ref="cv">
       <caption webpage="cv" alt="Michaela Putz 2017"/>
     </file>
-    <file name="_mirrored-landscapes,-imprinted-memories-04_michaelaputz2017_web.jpg" crc="480501934" seo="true" ref="mirroredlandscapes-imprintedmemories">
+    <file name="_mirrored-landscapes imprinted memories04_michaelaputz2017_web.jpg" crc="480501934" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #4, Michaela Putz"/>
+    </file>
+    <file name="_mirrored landscapes imprinted memories 02_michaelaputz2017.jpg" crc="3812575998" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz"/>
+    </file>
+    <file name="_mirrored landscapes imprinted memories 01_michaelaputz2017.jpg" crc="4130250242" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz"/>
     </file>
   </folder>
   <folder name="tablet">
@@ -238,7 +235,7 @@
   <file name="index.html" crc="180735094" seo="true" mt="1507281852504" redirect="true"/>
   <file name="works.html" crc="106715178" seo="true" mt="1507214411695" redirect="true"/>
   <file name="layersofreality.html" crc="4234686673" seo="true" mt="1507214411695" redirect="true"/>
-  <file name="mirroredlandscapes-imprintedmemories.html" crc="340356924" seo="true" mt="1507281814508" redirect="true"/>
+  <file name="mirroredlandscapes-imprintedmemories.html" crc="3852983812" seo="true" mt="1507283370623" redirect="true"/>
   <file name="stainedlandscapes.html" crc="4093434435" seo="true" mt="1507214411695" redirect="true"/>
   <file name="seeminglyinsignificantgestures.html" crc="459499514" seo="true" mt="1507281871925" redirect="true"/>
   <file name="studyonthesoundofdanger.html" crc="477166022" seo="true" mt="1507214411695" redirect="true"/>

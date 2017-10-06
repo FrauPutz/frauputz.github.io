@@ -54,32 +54,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/_mirrored%20landscapes,%20imprinted%20memories%2002_michaelaputz2017.jpg</image:loc>
-      <image:caption>Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>http://michaelaputz.com/images/mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelaputz.com/images/_mirrored%20landscapes,%20imprinted%20memories%2001_michaelaputz2017.jpg</image:loc>
-      <image:caption>Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://michaelaputz.com/images/mirrored-landscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/mirrored%20landscapes,%20imprinted%20memories%20103_michaelaputz2017.jpg</image:loc>
-      <image:caption>Mirrored Landscapes, Imprinted Memories #3, Garden, Michaela Putz</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>http://michaelaputz.com/images/mirrored%20landscapes,%20imprinted%20memories%20101_michaelaputz2017.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/_mirrored-landscapes,-imprinted-memories-04_michaelaputz2017_web.jpg</image:loc>
+      <image:loc>http://michaelaputz.com/images/_mirrored-landscapes%20imprinted%20memories04_michaelaputz2017_web.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories #4, Michaela Putz</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/_mirrored%20landscapes%20imprinted%20memories%2002_michaelaputz2017.jpg</image:loc>
+      <image:caption>Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/_mirrored%20landscapes%20imprinted%20memories%2001_michaelaputz2017.jpg</image:loc>
+      <image:caption>Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz</image:caption>
     </image:image>
   </url>
   <url>
