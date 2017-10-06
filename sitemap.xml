@@ -6,18 +6,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web.jpg</image:loc>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapes_exhibition_rubymarie01_michaelaputz2017_web.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories, exhibition view LIQUID LANDSCAPES, 280A, Michaela Putz</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://michaelaputz.com/studyonthesoundofdanger.html</loc>
-    <lastmod>2017-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://michaelaputz.com/images/soundofdanger01_michaelaputz.jpg</image:loc>
-      <image:caption>A Study on the Sound of Danger, Michaela Putz 2016</image:caption>
     </image:image>
   </url>
   <url>
@@ -54,28 +44,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg</image:loc>
-      <image:caption>Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelaputz.com/images/mirrored-landscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg</image:loc>
-      <image:caption>Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelaputz.com/images/mirrored%20landscapes,%20imprinted%20memories%20101_michaelaputz2017.jpg</image:loc>
-      <image:caption>Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelaputz.com/images/_mirroredlandscapesimprintedmemories(5)_michaelaputz2017_web.jpg</image:loc>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapesimprintedmemories(5)_michaelaputz2017_web.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories #4, Michaela Putz</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/_mirroredlandscapesimprintedmemories(2)_michaelaputz2017.jpg</image:loc>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapesimprintedmemories(2)_michaelaputz2017_web.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/_mirroredlandscapesimprintedmemories(1)_michaelaputz2017.jpg</image:loc>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapesimprintedmemories(1)_michaelaputz2017_web.jpg</image:loc>
       <image:caption>Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapesimprintedmemories(6)_michaelaputz2017_web.jpg</image:loc>
+      <image:caption>Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg</image:loc>
+      <image:caption>Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/mirroredlandscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg</image:loc>
+      <image:caption>Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna</image:caption>
     </image:image>
   </url>
   <url>
@@ -139,17 +129,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://michaelaputz.com/nothinghappens.html</loc>
+    <loc>http://michaelaputz.com/studyonthesoundofdanger.html</loc>
     <lastmod>2017-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://michaelaputz.com/images/nothinghappens_michaelaputz%20(20).jpg</image:loc>
-      <image:caption>Nothing happens, Installation view and artist book, Michaela Putz 2015</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://michaelaputz.com/images/nothinghappens_michaelaputz%20(6).jpg</image:loc>
-      <image:caption>Nothing happens, Installation view and artist book, Michaela Putz 2015</image:caption>
+      <image:loc>http://michaelaputz.com/images/soundofdanger01_michaelaputz.jpg</image:loc>
+      <image:caption>A Study on the Sound of Danger, Michaela Putz 2016</image:caption>
     </image:image>
   </url>
   <url>
@@ -243,6 +229,26 @@
     </image:image>
   </url>
   <url>
+    <loc>http://michaelaputz.com/nothinghappens.html</loc>
+    <lastmod>2017-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/nothinghappens_michaelaputz%20(20).jpg</image:loc>
+      <image:caption>Nothing happens, Installation view and artist book, Michaela Putz 2015</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://michaelaputz.com/images/nothinghappens_michaelaputz%20(6).jpg</image:loc>
+      <image:caption>Nothing happens, Installation view and artist book, Michaela Putz 2015</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://michaelaputz.com/about.html</loc>
+    <lastmod>2017-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://michaelaputz.com/cv.html</loc>
     <lastmod>2017-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,20 +259,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://michaelaputz.com/about.html</loc>
-    <lastmod>2017-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://michaelaputz.com/cv-copy.html</loc>
     <lastmod>2017-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://michaelaputz.com/assets/_mirrored-landscapes,-imprinted-memories-04_michaelaputz2017.tif</loc>
-    <lastmod>2017-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

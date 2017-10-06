@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="michaelaputz.com" resolutions="1x" timestamp="1507283918698">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="michaelaputz.com" resolutions="1x" timestamp="1507285031834">
   <folder name="css">
     <file name="site_global.css" crc="127823251"/>
     <file name="master_a-master.css" crc="435302643" ref="index"/>
@@ -18,9 +18,6 @@
     <file name="panopticon.css" crc="4215958428" ref="panopticon"/>
     <file name="about.css" crc="3850710340" ref="about"/>
   </folder>
-  <folder name="assets">
-    <file name="_mirrored-landscapes,-imprinted-memories-04_michaelaputz2017.tif" crc="3894773043" seo="true" mt="1504624051000"/>
-  </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
     <file name="museutils.js" crc="17924269" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
@@ -31,9 +28,6 @@
   </folder>
   <folder name="images">
     <file name="michaela-putz--home-favicon.ico" crc="3833360007" ref="phone>index:index"/>
-    <file name="mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web.jpg" crc="317467190" seo="true" ref="index">
-      <caption webpage="index" alt="Mirrored Landscapes, Imprinted Memories, exhibition view LIQUID LANDSCAPES, 280A, Michaela Putz"/>
-    </file>
     <file name="layersofreality_01_michaelaputz2017_web.jpg" crc="4166839347" seo="true" ref="layersofreality">
       <caption webpage="layersofreality" alt="Layers of Reality #1, Michaela Putz 2017"/>
     </file>
@@ -45,15 +39,6 @@
     </file>
     <file name="layersofreality_04_michaelaputz2017_web.jpg" crc="4251191832" seo="true" ref="layersofreality">
       <caption webpage="layersofreality" alt="Layers of Reality #4, Michaela Putz 2017"/>
-    </file>
-    <file name="mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg" crc="106284857" seo="true" ref="mirroredlandscapes-imprintedmemories">
-      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
-    </file>
-    <file name="mirrored-landscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg" crc="4264742315" seo="true" ref="mirroredlandscapes-imprintedmemories">
-      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
-    </file>
-    <file name="mirrored landscapes, imprinted memories 101_michaelaputz2017.jpg" crc="411009905" seo="true" ref="mirroredlandscapes-imprintedmemories">
-      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz"/>
     </file>
     <file name="stainedlandscapes01_michaelaputz2017_web.jpg" crc="3761665018" seo="true" ref="stainedlandscapes">
       <caption webpage="stainedlandscapes" alt="Stained Landscapes #1, Michaela Putz 2017. Photography of Landscapes mirroring on a smartphone screen"/>
@@ -158,14 +143,26 @@
     <file name="michaelaputz_vienna_2017(1)-web.jpg" crc="4008430673" seo="true" ref="cv">
       <caption webpage="cv" alt="Michaela Putz 2017"/>
     </file>
-    <file name="_mirroredlandscapesimprintedmemories(5)_michaelaputz2017_web.jpg" crc="480501934" seo="true" ref="mirroredlandscapes-imprintedmemories">
+    <file name="mirroredlandscapes_exhibition_rubymarie01_michaelaputz2017_web.jpg" crc="317467190" seo="true" ref="index">
+      <caption webpage="index" alt="Mirrored Landscapes, Imprinted Memories, exhibition view LIQUID LANDSCAPES, 280A, Michaela Putz"/>
+    </file>
+    <file name="mirroredlandscapesimprintedmemories(5)_michaelaputz2017_web.jpg" crc="480501934" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #4, Michaela Putz"/>
     </file>
-    <file name="_mirroredlandscapesimprintedmemories(2)_michaelaputz2017.jpg" crc="3812575998" seo="true" ref="mirroredlandscapes-imprintedmemories">
+    <file name="mirroredlandscapesimprintedmemories(2)_michaelaputz2017_web.jpg" crc="4085114879" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz"/>
     </file>
-    <file name="_mirroredlandscapesimprintedmemories(1)_michaelaputz2017.jpg" crc="4130250242" seo="true" ref="mirroredlandscapes-imprintedmemories">
+    <file name="mirroredlandscapesimprintedmemories(1)_michaelaputz2017_web.jpg" crc="3829885583" seo="true" ref="mirroredlandscapes-imprintedmemories">
       <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz"/>
+    </file>
+    <file name="mirroredlandscapesimprintedmemories(6)_michaelaputz2017_web.jpg" crc="4226270491" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz"/>
+    </file>
+    <file name="mirroredlandscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg" crc="69118057" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
+    </file>
+    <file name="mirroredlandscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg" crc="238008821" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
     </file>
   </folder>
   <folder name="tablet">
@@ -232,10 +229,10 @@
     <file name="cv.html" crc="340140846" seo="true" mt="1507212844324" redirect="false"/>
     <file name="cv-copy.html" crc="90348951" seo="true" mt="1507212844324" redirect="false"/>
   </folder>
-  <file name="index.html" crc="180735094" seo="true" mt="1507281852504" redirect="true"/>
+  <file name="index.html" crc="122209096" seo="true" mt="1507285011214" redirect="true"/>
   <file name="works.html" crc="106715178" seo="true" mt="1507214411695" redirect="true"/>
   <file name="layersofreality.html" crc="4234686673" seo="true" mt="1507214411695" redirect="true"/>
-  <file name="mirroredlandscapes-imprintedmemories.html" crc="3842060251" seo="true" mt="1507283899680" redirect="true"/>
+  <file name="mirroredlandscapes-imprintedmemories.html" crc="3776168574" seo="true" mt="1507284997130" redirect="true"/>
   <file name="stainedlandscapes.html" crc="4093434435" seo="true" mt="1507214411695" redirect="true"/>
   <file name="seeminglyinsignificantgestures.html" crc="459499514" seo="true" mt="1507281871925" redirect="true"/>
   <file name="studyonthesoundofdanger.html" crc="477166022" seo="true" mt="1507214411695" redirect="true"/>
