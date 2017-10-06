@@ -1,161 +1,252 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.michaelaputz.com" resolutions="1x" timestamp="1487065953977">
-  <folder name="assets">
-    <file name="michaelaputz_arbeiten.pdf" crc="251414572" seo="true" mt="1485444565000"/>
-  </folder>
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="michaelaputz.com" resolutions="1x" timestamp="1507281913664">
   <folder name="css">
-    <file name="site_global.css" crc="353262729"/>
-    <file name="master_a-musters.css" crc="3795121154" ref="operating:measuring-the-human-line:kontakt:a-study-on-the-sound-of-danger:der-körper-ist-in-auflösung-begriffen:maschinen:cv:measuring-the-human-landscape:panopticon:aktuell:form-finden,-die-form-verlieren:nothing-happens:körperkartographien:index:strangeness:arbeiten:patterns-of-the-contemporary:coded-handwriting:prototyp:objekte-und-zeichnungen:measuring-the-human-landscape-2"/>
-    <file name="operating.css" crc="4294114242" ref="operating"/>
-    <file name="measuring-the-human-line.css" crc="397357383" ref="measuring-the-human-line"/>
-    <file name="kontakt.css" crc="4193158501" ref="kontakt"/>
-    <file name="a-study-on-the-sound-of-danger.css" crc="4026238536" ref="a-study-on-the-sound-of-danger"/>
-    <file name="der-k_rper-ist-in-aufl_sung-begriffen.css" crc="3918606708" ref="der-körper-ist-in-auflösung-begriffen"/>
-    <file name="maschinen.css" crc="4154810948" ref="maschinen"/>
-    <file name="cv.css" crc="287437619" ref="cv"/>
-    <file name="measuring-the-human-landscape.css" crc="484968092" ref="measuring-the-human-landscape"/>
-    <file name="panopticon.css" crc="410158219" ref="panopticon"/>
-    <file name="aktuell.css" crc="162087403" ref="aktuell"/>
-    <file name="form-finden_-die-form-verlieren.css" crc="33689353" ref="form-finden,-die-form-verlieren"/>
-    <file name="nothing-happens.css" crc="4156516176" ref="nothing-happens"/>
-    <file name="k_rperkartographien.css" crc="4152347580" ref="körperkartographien"/>
-    <file name="index.css" crc="4084543554" ref="index"/>
-    <file name="strangeness.css" crc="3866449842" ref="strangeness"/>
-    <file name="arbeiten.css" crc="283570815" ref="arbeiten"/>
-    <file name="patterns-of-the-contemporary.css" crc="4288101706" ref="patterns-of-the-contemporary"/>
-    <file name="coded-handwriting.css" crc="34287849" ref="coded-handwriting"/>
-    <file name="prototyp.css" crc="3823666777" ref="prototyp"/>
-    <file name="objekte-und-zeichnungen.css" crc="513595866" ref="objekte-und-zeichnungen"/>
-    <file name="measuring-the-human-landscape-2.css" crc="4233331826" ref="measuring-the-human-landscape-2"/>
+    <file name="site_global.css" crc="127823251"/>
+    <file name="master_a-master.css" crc="435302643" ref="index"/>
+    <file name="master_b-master.css" crc="345979547" ref="nothinghappens:studyonthesoundofdanger:cv-copy:seeminglyinsignificantgestures:stainedlandscapes:prototyp:works:mirroredlandscapes-imprintedmemories:layersofreality:measuringthehumandlandscape:cv:panopticon:about"/>
+    <file name="nothinghappens.css" crc="4101920582" ref="nothinghappens"/>
+    <file name="studyonthesoundofdanger.css" crc="129050085" ref="studyonthesoundofdanger"/>
+    <file name="cv-copy.css" crc="3893586075" ref="cv-copy"/>
+    <file name="seeminglyinsignificantgestures.css" crc="206664617" ref="seeminglyinsignificantgestures"/>
+    <file name="stainedlandscapes.css" crc="3844141274" ref="stainedlandscapes"/>
+    <file name="prototyp.css" crc="3876112243" ref="prototyp"/>
+    <file name="works.css" crc="3850710340" ref="works"/>
+    <file name="mirroredlandscapes-imprintedmemories.css" crc="4020118225" ref="mirroredlandscapes-imprintedmemories"/>
+    <file name="layersofreality.css" crc="3887568651" ref="layersofreality"/>
+    <file name="measuringthehumandlandscape.css" crc="4156243575" ref="measuringthehumandlandscape"/>
+    <file name="index.css" crc="317742060" ref="index"/>
+    <file name="cv.css" crc="4180164161" ref="cv"/>
+    <file name="panopticon.css" crc="4215958428" ref="panopticon"/>
+    <file name="about.css" crc="3850710340" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="_mirrored-landscapes,-imprinted-memories-04_michaelaputz2017.tif" crc="3894773043" seo="true" mt="1504624051000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="museutils.js" crc="4148063285" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="museconfig.js" crc="4179431180" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="jquery.musemenu.js" crc="3765830709" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="webpro.js" crc="3986320349" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="musewpslideshow.js" crc="405464237" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="jquery.museoverlay.js" crc="305414130" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="touchswipe.js" crc="221459597" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
-    <file name="require.js" crc="4159430777" ref="index:measuring-the-human-line:panopticon:measuring-the-human-landscape:a-study-on-the-sound-of-danger:nothing-happens:der-körper-ist-in-auflösung-begriffen:operating:körperkartographien:maschinen:patterns-of-the-contemporary:aktuell:cv:kontakt:form-finden,-die-form-verlieren:strangeness:arbeiten:coded-handwriting:objekte-und-zeichnungen:prototyp:measuring-the-human-landscape-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
+    <file name="museconfig.js" crc="278381782" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:phone>works:phone>layersofreality:phone>mirroredlandscapes-imprintedmemories:phone>stainedlandscapes:phone>seeminglyinsignificantgestures:phone>studyonthesoundofdanger:phone>measuringthehumandlandscape:phone>panopticon:phone>nothinghappens:phone>prototyp:phone>about:phone>cv:phone>cv-copy:tablet>index:tablet>works:tablet>layersofreality:tablet>mirroredlandscapes-imprintedmemories:tablet>stainedlandscapes:tablet>seeminglyinsignificantgestures:tablet>studyonthesoundofdanger:tablet>measuringthehumandlandscape:tablet>panopticon:tablet>nothinghappens:tablet>prototyp:tablet>about:tablet>cv:tablet>cv-copy:index:works:layersofreality:mirroredlandscapes-imprintedmemories:stainedlandscapes:seeminglyinsignificantgestures:studyonthesoundofdanger:measuringthehumandlandscape:panopticon:prototyp:nothinghappens:about:cv:cv-copy"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="untitled-1.jpg" crc="4107278799" seo="true" ref="form-finden,-die-form-verlieren"/>
-    <file name="territory.jpg" crc="4029734538" seo="true" ref="measuring-the-human-line"/>
-    <file name="panopticon_michaelaputz2.jpg" crc="3785141406" seo="true" ref="panopticon"/>
-    <file name="img_6942-crop-u5668.jpg" crc="4111893506" ref="a-study-on-the-sound-of-danger"/>
-    <file name="5a4a9d269123515635e0664ef30.jpg" crc="224830715" seo="true" ref="nothing-happens"/>
-    <file name="territory2.jpg" crc="3924861074" seo="true" ref="measuring-the-human-line"/>
-    <file name="loading.gif" crc="3815509949" ref="measuring-the-human-line:panopticon:measuring-the-human-landscape:nothing-happens:measuring-the-human-landscape-2"/>
-    <file name="_dsc0079-crop-u2283.jpg" crc="4019899380" ref="measuring-the-human-line" seo="true"/>
-    <file name="territory233x154.jpg" crc="69583081" seo="true" ref="measuring-the-human-line"/>
-    <file name="territory2220x174.jpg" crc="3817975669" seo="true" ref="measuring-the-human-line"/>
-    <file name="_dsc0079-crop-u2289.jpg" crc="3842366918" ref="measuring-the-human-line"/>
-    <file name="eingangzurausstellung3.jpg" crc="4072434348" seo="true" ref="panopticon"/>
-    <file name="dsc_4047_50x40_300.jpg" crc="3835157316" seo="true" ref="panopticon"/>
-    <file name="dsc_4171_50x40_300.jpg" crc="3797674068" seo="true" ref="panopticon"/>
-    <file name="dsc_4181_50x40_300.jpg" crc="87189786" seo="true" ref="panopticon"/>
-    <file name="dsc_4192_50x40_300.jpg" crc="4173485532" seo="true" ref="panopticon"/>
-    <file name="dsc_4196_50x40_300.jpg" crc="4245637711" seo="true" ref="panopticon"/>
-    <file name="dsc_4228_50x40_300.jpg" crc="3923705112" seo="true" ref="panopticon"/>
-    <file name="dsc_4223_50x40_300.jpg" crc="4047467915" seo="true" ref="panopticon"/>
-    <file name="dsc_4298_50x40_300.jpg" crc="305989281" seo="true" ref="panopticon"/>
-    <file name="dsc_4594_50x40_300.jpg" crc="99114377" seo="true" ref="panopticon"/>
-    <file name="panopticon_michaelaputz2232x154.jpg" crc="313085906" seo="true" ref="panopticon"/>
-    <file name="eingangzurausstellung3232x154.jpg" crc="4172199462" seo="true" ref="panopticon"/>
-    <file name="dsc_4047_50x40_300220x176.jpg" crc="332466370" seo="true" ref="panopticon"/>
-    <file name="dsc_4171_50x40_300220x176.jpg" crc="4291041333" seo="true" ref="panopticon"/>
-    <file name="dsc_4181_50x40_300220x176.jpg" crc="3784488157" seo="true" ref="panopticon"/>
-    <file name="dsc_4192_50x40_300220x176.jpg" crc="3772492000" seo="true" ref="panopticon"/>
-    <file name="dsc_4196_50x40_300220x176.jpg" crc="4100713874" seo="true" ref="panopticon"/>
-    <file name="dsc_4228_50x40_300220x176.jpg" crc="4194398525" seo="true" ref="panopticon"/>
-    <file name="dsc_4223_50x40_300220x176.jpg" crc="4195467498" seo="true" ref="panopticon"/>
-    <file name="dsc_4298_50x40_300220x176.jpg" crc="4070185925" seo="true" ref="panopticon"/>
-    <file name="dsc_4594_50x40_300220x176.jpg" crc="4040866942" seo="true" ref="panopticon"/>
-    <file name="measuringthehumanlandscape_michaelaputz.jpg" crc="3916878087" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="91aac3269123515635e04d88169.jpg" crc="122295603" seo="true" ref="nothing-happens"/>
-    <file name="7f698e269123515635e0467f0a4.jpg" crc="3934161593" seo="true" ref="nothing-happens"/>
-    <file name="95b1d3269123515635e06611cce.jpg" crc="4170113743" seo="true" ref="nothing-happens"/>
-    <file name="buch1.jpg" crc="3899717652" seo="true" ref="nothing-happens"/>
-    <file name="buch2 (1).jpg" crc="152193679" seo="true" ref="nothing-happens"/>
-    <file name="buch3.jpg" crc="4193555426" seo="true" ref="nothing-happens"/>
-    <file name="buch4.jpg" crc="3816304276" seo="true" ref="nothing-happens"/>
-    <file name="buch5.jpg" crc="262294922" seo="true" ref="nothing-happens"/>
-    <file name="91aac3269123515635e04d88169231x154.jpg" crc="454388602" seo="true" ref="nothing-happens"/>
-    <file name="5a4a9d269123515635e0664ef30231x154.jpg" crc="103714831" seo="true" ref="nothing-happens"/>
-    <file name="7f698e269123515635e0467f0a4231x154.jpg" crc="490780163" seo="true" ref="nothing-happens"/>
-    <file name="95b1d3269123515635e06611cce231x154.jpg" crc="4281231730" seo="true" ref="nothing-happens"/>
-    <file name="buch1220x163.jpg" crc="433810674" seo="true" ref="nothing-happens"/>
-    <file name="buch2 (1)220x163.jpg" crc="3854717892" seo="true" ref="nothing-happens"/>
-    <file name="buch3220x163.jpg" crc="4246619823" seo="true" ref="nothing-happens"/>
-    <file name="buch4220x163.jpg" crc="404023748" seo="true" ref="nothing-happens"/>
-    <file name="buch5220x163.jpg" crc="3929306816" seo="true" ref="nothing-happens"/>
-    <file name="drawing_object1-crop-u5462.jpg" crc="66580586" ref="objekte-und-zeichnungen"/>
-    <file name="maschinen_exhibitionviewprints2015_michaelaputz_creditszusanamelichar.jpg" crc="210210377" seo="true" ref="maschinen"/>
-    <file name="patternscontemporary2_michaelaputz-crop-u7324.jpg" crc="325654817" ref="patterns-of-the-contemporary"/>
-    <file name="untitled-2-crop-u4888.jpg" crc="4141740811" ref="form-finden,-die-form-verlieren"/>
-    <file name="strangeness1.jpg" crc="4039750160" seo="true" ref="strangeness"/>
-    <file name="strangeness2.jpg" crc="4261448671" seo="true" ref="strangeness"/>
-    <file name="körperkartographien_ausstellung-crop-u10357.jpg" crc="69041207" ref="index"/>
-    <file name="patternscontemporary_02_30x45_jpg-crop-u10366.jpg" crc="4214359735" ref="index"/>
-    <file name="u10361-5.png" crc="283940166" ref="index"/>
-    <file name="painting_pink_web4-crop-u10364.jpg" crc="3866819486" ref="index"/>
-    <file name="maschinen_exhibitionviewprints2015_michaelaputz_creditszusanamelichar-crop-u10359.jpg" crc="4179532867" ref="index"/>
-    <file name="strangeness1-crop-u10362.jpg" crc="522556700" ref="index"/>
-    <file name="dsc_4173_50x40_300.jpg" crc="4207358934" seo="true" ref="panopticon"/>
-    <file name="dsc_4173_50x40_300220x176.jpg" crc="47899983" seo="true" ref="panopticon"/>
-    <file name="coded.jpg" crc="4137877150" seo="true" ref="coded-handwriting"/>
-    <file name="measuring01-crop-u9876.jpg" crc="3912693502" ref="measuring-the-human-landscape"/>
-    <file name="measuring02-crop-u9913.jpg" crc="379168687" ref="measuring-the-human-landscape"/>
-    <file name="measuring03-crop-u9940.jpg" crc="4053069267" ref="measuring-the-human-landscape"/>
-    <file name="ausstellungpavillon.jpg" crc="3933608193" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="measuring01253x169.jpg" crc="4094405539" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="measuring02248x165.jpg" crc="4045893749" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="measuring03253x168.jpg" crc="3966970816" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="measuringthehumanlandscape_michaelaputz233x154.jpg" crc="3880849289" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="ausstellungpavillon220x183.jpg" crc="4250010682" seo="true" ref="measuring-the-human-landscape"/>
-    <file name="painting_pink-crop-u10522.jpg" crc="3830928776" ref="der-körper-ist-in-auflösung-begriffen"/>
-    <file name="operating2-crop-u9798.jpg" crc="379310081" ref="operating"/>
-    <file name="operating1-crop-u9815.jpg" crc="6146076" ref="operating"/>
-    <file name="körperkartographien_ausstellung.jpg" crc="465660588" seo="true" ref="körperkartographien"/>
-    <file name="patternscontemporary_michaelaputz-crop-u5472.jpg" crc="169845726" ref="patterns-of-the-contemporary"/>
-    <file name="michaela putz.jpg" crc="482301240" seo="true" ref="kontakt"/>
-    <file name="1-crop-u10284.jpg" crc="3978685058" ref="arbeiten"/>
-    <file name="painting_pink-crop-u10286.jpg" crc="124178011" ref="arbeiten"/>
-    <file name="patternscontemporary_michaelaputz-crop-u5472-crop-u10290.jpg" crc="4151505662" ref="arbeiten"/>
-    <file name="img_20170113_184846.jpg" crc="4063171772" seo="true" ref="prototyp"/>
-    <file name="measuring04-crop-u10067.jpg" crc="180103922" ref="measuring-the-human-landscape-2"/>
-    <file name="measuring5-6.jpg" crc="4257253987" seo="true" ref="measuring-the-human-landscape-2"/>
-    <file name="impacthubausstellung.jpg" crc="307376308" seo="true" ref="measuring-the-human-landscape-2"/>
-    <file name="measuring04232x154.jpg" crc="291797650" seo="true" ref="measuring-the-human-landscape-2"/>
-    <file name="measuring5-6251x154.jpg" crc="219441683" seo="true" ref="measuring-the-human-landscape-2"/>
-    <file name="impacthubausstellung244x154.jpg" crc="4279537646" seo="true" ref="measuring-the-human-landscape-2"/>
-    <file name="img_20170113_184846-crop-u10372.jpg" crc="86782070" ref="index"/>
-    <file name="measuring01-crop-u10355.jpg" crc="482061479" ref="index"/>
-    <file name="measuringthehumanline_michaelaputz-crop-u10370.jpg" crc="62878957" ref="index"/>
+    <file name="michaela-putz--home-favicon.ico" crc="3833360007" ref="phone>index:index"/>
+    <file name="mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web.jpg" crc="317467190" seo="true" ref="index">
+      <caption webpage="index" alt="Mirrored Landscapes, Imprinted Memories, exhibition view LIQUID LANDSCAPES, 280A, Michaela Putz"/>
+    </file>
+    <file name="layersofreality_01_michaelaputz2017_web.jpg" crc="4166839347" seo="true" ref="layersofreality">
+      <caption webpage="layersofreality" alt="Layers of Reality #1, Michaela Putz 2017"/>
+    </file>
+    <file name="layersofreality_02_michaelaputz2017_web.jpg" crc="488446418" seo="true" ref="layersofreality">
+      <caption webpage="layersofreality" alt="Layers of Reality #2, Michaela Putz 2017"/>
+    </file>
+    <file name="layersofreality_03_michaelaputz2017_web.jpg" crc="3824477239" seo="true" ref="layersofreality">
+      <caption webpage="layersofreality" alt="Layers of Reality #3, Michaela Putz 2017"/>
+    </file>
+    <file name="layersofreality_04_michaelaputz2017_web.jpg" crc="4251191832" seo="true" ref="layersofreality">
+      <caption webpage="layersofreality" alt="Layers of Reality #4, Michaela Putz 2017"/>
+    </file>
+    <file name="_mirrored landscapes, imprinted memories 02_michaelaputz2017.jpg" crc="3812575998" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Tree, Michaela Putz"/>
+    </file>
+    <file name="mirrored-landscapes_exhibition_rubymarie01_michaelaputz2017_web-crop-u374.jpg" crc="69118057" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #1, Sky, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
+    </file>
+    <file name="_mirrored landscapes, imprinted memories 01_michaelaputz2017.jpg" crc="4130250242" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #2, Garden, Michaela Putz"/>
+    </file>
+    <file name="mirrored-landscapes_exhibition_rubymarie02_michaelaputz2017_web-crop-u382.jpg" crc="238008821" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories, Installation View, Michaela Putz, Exhibition at Ruby Marie Hotel Showroom, Vienna"/>
+    </file>
+    <file name="mirrored landscapes, imprinted memories 103_michaelaputz2017.jpg" crc="4276259645" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #3, Garden, Michaela Putz"/>
+    </file>
+    <file name="mirrored landscapes, imprinted memories 101_michaelaputz2017.jpg" crc="411009905" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #3, iPad, Michaela Putz"/>
+    </file>
+    <file name="stainedlandscapes01_michaelaputz2017_web.jpg" crc="3761665018" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #1, Michaela Putz 2017. Photography of Landscapes mirroring on a smartphone screen"/>
+    </file>
+    <file name="stainedlandscapes04_michaelaputz2017_web.jpg" crc="162079868" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #4, Michaela Putz 2017. Photographies of landscapes mirroring on a smartphone screen."/>
+    </file>
+    <file name="stainedlandscapes07_michaelaputz2017_web.jpg" crc="3857184690" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #7, Michaela Putz 2017. Photographies of landscapes mirroring on a smartphone screen."/>
+    </file>
+    <file name="stainedlandscapes02_michaelaputz2017_web.jpg" crc="186033966" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #2, Michaela Putz 2017. Photography of Landscapes mirroring on a smartphone screen"/>
+    </file>
+    <file name="stainedlandscapes05_michaelaputz2017_web.jpg" crc="334765748" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #5, Michaela Putz 2017. Photographies of landscapes mirroring on a smartphone screen."/>
+    </file>
+    <file name="stainedlandscapes03_michaelaputz2017_web.jpg" crc="3984442599" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #3, Michaela Putz 2017. Photography of Landscapes mirroring on a smartphone screen"/>
+    </file>
+    <file name="stainedlandscapes06_michaelaputz2017_web.jpg" crc="316755368" seo="true" ref="stainedlandscapes">
+      <caption webpage="stainedlandscapes" alt="Stained Landscapes #6, Michaela Putz 2017. Photographies of landscapes mirroring on a smartphone screen."/>
+    </file>
+    <file name="insignificantgestures_heiligenkreuzerhof02_michaelaputz2017_cpeterkainz.jpg" crc="4180975083" seo="true" ref="seeminglyinsignificantgestures">
+      <caption webpage="seeminglyinsignificantgestures" alt="Traces of Seemingly Insignificant Gestures, Michaela Putz 2017, Photo by Peter Kainz"/>
+    </file>
+    <file name="insignificantgestures_heiligenkreuzerhof03_michaelaputz2017_cpeterkainz.jpg" crc="4103206630" seo="true" ref="seeminglyinsignificantgestures">
+      <caption webpage="seeminglyinsignificantgestures" alt="Traces of Seemingly Insignificant Gestures, Michaela Putz 2017, Photo by Peter Kainz"/>
+    </file>
+    <file name="insignificantgestures_heiligenkreuzerhof05_michaelaputz2017_cpeterkainz.jpg" crc="33547164" seo="true" ref="seeminglyinsignificantgestures">
+      <caption webpage="seeminglyinsignificantgestures" alt="Traces of Seemingly Insignificant Gestures, Michaela Putz 2017, Photo by Peter Kainz; Video Loop"/>
+    </file>
+    <file name="insignificantgestures_heiligenkreuzerhof07_michaelaputz2017_cpeterkainz.jpg" crc="447351503" seo="true" ref="seeminglyinsignificantgestures">
+      <caption webpage="seeminglyinsignificantgestures" alt="Traces of Seemingly Insignificant Gestures, Michaela Putz 2017, Photo by Peter Kainz; Video Projection on Screen"/>
+    </file>
+    <file name="insignificantgestures_heiligenkreuzerhof06_michaelaputz2017_cpeterkainz.jpg" crc="4018474157" seo="true" ref="seeminglyinsignificantgestures">
+      <caption webpage="seeminglyinsignificantgestures" alt="Traces of Seemingly Insignificant Gestures, Michaela Putz 2017, Photo by Peter Kainz; Smartphone"/>
+    </file>
+    <file name="soundofdanger01_michaelaputz.jpg" crc="4111893506" seo="true" ref="studyonthesoundofdanger">
+      <caption webpage="studyonthesoundofdanger" alt="A Study on the Sound of Danger, Michaela Putz 2016"/>
+    </file>
+    <file name="measuringthehumanlandscape01_michaelaputz_web.jpg" crc="3953574269" seo="true" ref="measuringthehumandlandscape">
+      <caption webpage="measuringthehumandlandscape" alt="Measuring the Human Landscape, Michaela Putz 2016; drawing"/>
+    </file>
+    <file name="measuringthehumanlandscape02_michaelaputz_web.jpg" crc="3816347460" seo="true" ref="measuringthehumandlandscape">
+      <caption webpage="measuringthehumandlandscape" alt="Measuring the Human Landscape #2, Michaela Putz 2016, drawing"/>
+    </file>
+    <file name="measuringthehumanlandscape_installation01_michaelaputz.jpg" crc="4029734538" seo="true" ref="measuringthehumandlandscape">
+      <caption webpage="measuringthehumandlandscape" alt="Measuring the Human Landscape, installation view, Michaela Putz 2015; drawing, sgraffito, stone"/>
+    </file>
+    <file name="measuringthehumanlandscape_installation02_michaelaputz.jpg" crc="3924861074" seo="true" ref="measuringthehumandlandscape">
+      <caption webpage="measuringthehumandlandscape" alt="Measuring the Human Landscape, installation view, Michaela Putz 2015; drawing, sgraffito, stone"/>
+    </file>
+    <file name="measuringthehumanlandscape03_michaelaputz_web.jpg" crc="4140305767" seo="true" ref="measuringthehumandlandscape">
+      <caption webpage="measuringthehumandlandscape" alt="Measuring the Human Landscape #3, Michaela Putz 2016, drawing"/>
+    </file>
+    <file name="measuringthehumanlandscape_exhibition01_michaelaputz.jpg" crc="3916878087" seo="true" ref="measuringthehumandlandscape">
+      <caption webpage="measuringthehumandlandscape" alt="Measuring the Human Landscape, installation view, Michaela Putz 2016, drawings"/>
+    </file>
+    <file name="panopticon_01_michaelaputz2012.jpg" crc="3797674068" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #1, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_02_michaelaputz2012.jpg" crc="4207358934" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #2, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_05_michaelaputz2012.jpg" crc="4245637711" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #5, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_06_michaelaputz2012.jpg" crc="3923705112" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #6, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_09_michaelaputz2012.jpg" crc="305989281" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #9, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_10_michaelaputz2012.jpg" crc="99114377" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #10, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_03_michaelaputz2012.jpg" crc="87189786" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #3, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_04_michaelaputz2012.jpg" crc="4173485532" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #4, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_07_michaelaputz2012.jpg" crc="4047467915" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #7, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_08_michaelaputz2012.jpg" crc="3835157316" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon #8, Michaela Putz 2012"/>
+    </file>
+    <file name="panopticon_installationview_michaelaputz2012.jpg" crc="3785141406" seo="true" ref="panopticon">
+      <caption webpage="panopticon" alt="Panopticon, installation view Künstlerhaus Wien, Michaela Putz 2012"/>
+    </file>
+    <file name="prototyp01_michaelaputz2017.jpg" crc="4063171772" seo="true" ref="prototyp">
+      <caption webpage="prototyp" alt="Protopy, site-specific installation, drawing, Michaela Putz 2017"/>
+    </file>
+    <file name="nothinghappens_michaelaputz (11)-u1070.png" crc="460929140" ref="nothinghappens"/>
+    <file name="nothinghappens_michaelaputz (20).jpg" crc="4049178154" seo="true" ref="nothinghappens">
+      <caption webpage="nothinghappens" alt="Nothing happens, Installation view and artist book, Michaela Putz 2015"/>
+    </file>
+    <file name="nothinghappens_michaelaputz (6).jpg" crc="3913040875" seo="true" ref="nothinghappens">
+      <caption webpage="nothinghappens" alt="Nothing happens, Installation view and artist book, Michaela Putz 2015"/>
+    </file>
+    <file name="michaelaputz_vienna_2017(1)-web.jpg" crc="4008430673" seo="true" ref="cv">
+      <caption webpage="cv" alt="Michaela Putz 2017"/>
+    </file>
+    <file name="_mirrored-landscapes,-imprinted-memories-04_michaelaputz2017_web.jpg" crc="480501934" seo="true" ref="mirroredlandscapes-imprintedmemories">
+      <caption webpage="mirroredlandscapes-imprintedmemories" alt="Mirrored Landscapes, Imprinted Memories #4, Michaela Putz"/>
+    </file>
   </folder>
-  <file name="index.html" crc="4248191394" seo="true" mt="1487065859126" redirect="true"/>
-  <file name="measuring-the-human-line.html" crc="397215649" seo="true" mt="1487065923894" redirect="true"/>
-  <file name="panopticon.html" crc="4143273295" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="measuring-the-human-landscape.html" crc="3819207358" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="a-study-on-the-sound-of-danger.html" crc="265382896" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="nothing-happens.html" crc="365725027" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="der-körper-ist-in-auflösung-begriffen.html" crc="3788823136" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="operating.html" crc="448470178" seo="true" mt="1487065767540" redirect="true"/>
-  <file name="körperkartographien.html" crc="353232648" seo="true" mt="1487063918291" redirect="true"/>
-  <file name="maschinen.html" crc="4232393634" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="patterns-of-the-contemporary.html" crc="175539281" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="aktuell.html" crc="384467027" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="cv.html" crc="4071540290" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="kontakt.html" crc="3950360368" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="form-finden,-die-form-verlieren.html" crc="521773026" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="strangeness.html" crc="4092032184" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="arbeiten.html" crc="4232388061" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="coded-handwriting.html" crc="4171065564" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="objekte-und-zeichnungen.html" crc="3842542079" seo="true" mt="1487063800066" redirect="true"/>
-  <file name="prototyp.html" crc="308013902" seo="true" mt="1487064148262" redirect="true"/>
-  <file name="measuring-the-human-landscape-2.html" crc="8215716" seo="true" mt="1487063800066" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="stainedlandscapes.css" crc="3948741586" ref="tablet>stainedlandscapes"/>
+      <file name="mirroredlandscapes-imprintedmemories.css" crc="3948741586" ref="tablet>mirroredlandscapes-imprintedmemories"/>
+      <file name="cv-copy.css" crc="3948741586" ref="tablet>cv-copy"/>
+      <file name="seeminglyinsignificantgestures.css" crc="3948741586" ref="tablet>seeminglyinsignificantgestures"/>
+      <file name="prototyp.css" crc="3948741586" ref="tablet>prototyp"/>
+      <file name="works.css" crc="3948741586" ref="tablet>works"/>
+      <file name="about.css" crc="3948741586" ref="tablet>about"/>
+      <file name="index.css" crc="3948741586" ref="tablet>index"/>
+      <file name="layersofreality.css" crc="3948741586" ref="tablet>layersofreality"/>
+      <file name="studyonthesoundofdanger.css" crc="3948741586" ref="tablet>studyonthesoundofdanger"/>
+      <file name="measuringthehumandlandscape.css" crc="3948741586" ref="tablet>measuringthehumandlandscape"/>
+      <file name="cv.css" crc="3948741586" ref="tablet>cv"/>
+      <file name="nothinghappens.css" crc="3948741586" ref="tablet>nothinghappens"/>
+      <file name="panopticon.css" crc="3948741586" ref="tablet>panopticon"/>
+    </folder>
+    <file name="index.html" crc="3999864152" seo="true" mt="1507212816664" redirect="false"/>
+    <file name="works.html" crc="3890340271" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="layersofreality.html" crc="6646875" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="mirroredlandscapes-imprintedmemories.html" crc="267178355" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="stainedlandscapes.html" crc="4084221131" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="seeminglyinsignificantgestures.html" crc="60434968" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="studyonthesoundofdanger.html" crc="4274374813" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="measuringthehumandlandscape.html" crc="293466803" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="panopticon.html" crc="4179314625" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="nothinghappens.html" crc="3936257032" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="prototyp.html" crc="3895701606" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="about.html" crc="3825111012" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="cv.html" crc="4219855016" seo="true" mt="1507212816968" redirect="false"/>
+    <file name="cv-copy.html" crc="487334361" seo="true" mt="1507212816968" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="seeminglyinsignificantgestures.css" crc="279237556" ref="phone>seeminglyinsignificantgestures"/>
+      <file name="nothinghappens.css" crc="279237556" ref="phone>nothinghappens"/>
+      <file name="mirroredlandscapes-imprintedmemories.css" crc="279237556" ref="phone>mirroredlandscapes-imprintedmemories"/>
+      <file name="cv.css" crc="279237556" ref="phone>cv"/>
+      <file name="prototyp.css" crc="279237556" ref="phone>prototyp"/>
+      <file name="layersofreality.css" crc="279237556" ref="phone>layersofreality"/>
+      <file name="panopticon.css" crc="279237556" ref="phone>panopticon"/>
+      <file name="cv-copy.css" crc="279237556" ref="phone>cv-copy"/>
+      <file name="index.css" crc="279237556" ref="phone>index"/>
+      <file name="works.css" crc="279237556" ref="phone>works"/>
+      <file name="studyonthesoundofdanger.css" crc="279237556" ref="phone>studyonthesoundofdanger"/>
+      <file name="stainedlandscapes.css" crc="279237556" ref="phone>stainedlandscapes"/>
+      <file name="about.css" crc="279237556" ref="phone>about"/>
+      <file name="measuringthehumandlandscape.css" crc="279237556" ref="phone>measuringthehumandlandscape"/>
+    </folder>
+    <file name="index.html" crc="230542624" seo="true" mt="1507212844048" redirect="false"/>
+    <file name="works.html" crc="3860386935" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="layersofreality.html" crc="4069261906" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="mirroredlandscapes-imprintedmemories.html" crc="4016678393" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="stainedlandscapes.html" crc="3773443289" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="seeminglyinsignificantgestures.html" crc="4245848061" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="studyonthesoundofdanger.html" crc="3851180056" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="measuringthehumandlandscape.html" crc="412180829" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="panopticon.html" crc="70457828" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="nothinghappens.html" crc="534414734" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="prototyp.html" crc="3771599981" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="about.html" crc="4019615420" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="cv.html" crc="340140846" seo="true" mt="1507212844324" redirect="false"/>
+    <file name="cv-copy.html" crc="90348951" seo="true" mt="1507212844324" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="180735094" seo="true" mt="1507281852504" redirect="true"/>
+  <file name="works.html" crc="106715178" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="layersofreality.html" crc="4234686673" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="mirroredlandscapes-imprintedmemories.html" crc="340356924" seo="true" mt="1507281814508" redirect="true"/>
+  <file name="stainedlandscapes.html" crc="4093434435" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="seeminglyinsignificantgestures.html" crc="459499514" seo="true" mt="1507281871925" redirect="true"/>
+  <file name="studyonthesoundofdanger.html" crc="477166022" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="measuringthehumandlandscape.html" crc="219919896" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="panopticon.html" crc="69426767" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="prototyp.html" crc="3828322473" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="nothinghappens.html" crc="267870449" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="about.html" crc="4058766763" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="cv.html" crc="3768047378" seo="true" mt="1507214411695" redirect="true"/>
+  <file name="cv-copy.html" crc="200480404" seo="true" mt="1507214411695" redirect="true"/>
 </manifest>
